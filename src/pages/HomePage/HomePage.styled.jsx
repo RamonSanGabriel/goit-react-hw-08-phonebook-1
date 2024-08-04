@@ -10,15 +10,15 @@ export const HomeSection = styled.section`
     font-size: 20px; 
 `
 export const HomeContainer = styled.div`
-    padding-left: 15px;
-    padding-right: 15px;
+    padding-left: 30px;
+    padding-right: 20px;
     margin-left: auto;
     margin-right: auto;   
 `
 export const HomeTitle = styled.h1`
    margin: 0 auto 30px; 
-   font-weight: 900; 
-   font-size: 36px;   
+   font-weight: 1100; 
+   font-size: 90px;   
 `
 export const Logo = styled.span`
     color: ${({ theme }) => theme.colors.primaryGreen};    
