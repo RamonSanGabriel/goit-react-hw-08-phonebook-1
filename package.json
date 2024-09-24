@@ -1,8 +1,8 @@
 {
-  "name": "goit-react-hw-08-phonebook",
+  "name": "goit-react-hw-08-phonebook-styled",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://rlmgtr.github.io/goit-react-hw-08-phonebook/",
+  "homepage": "https://RamonSanGabriel.github.io/goit-react-hw-08-phonebook-styled/",
   "dependencies": {
     "@emotion/css": "^11.13.0",
     "@emotion/react": "^11.13.0",
